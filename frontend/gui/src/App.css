@@ -1,0 +1,115 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 100% !important;
+  border: #f4f4f4 3px solid !important;
+  box-sizing: border-box !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+.avatar {
+  height: 160px;
+  overflow: hidden;
+}
+
+.no-content {
+  color: red;
+  border-radius: 5px;
+}
+
+li.collection-item.avatar {
+  height: 130px !important;
+}
+
+.input-field p {
+  color: red;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.slider .slides{
+  height: 100% !important;
+}
+
+.slider .indicators {
+  display: none !important;
+}
+
+
+/* tile uploaded pictures
+.avatar-item {
+  margin-right: 24px;
+}
+
+[class*='-col-rtl'] .avatar-item {
+  margin-right: 0;
+  margin-left: 24px;
+} */
+
+#components-layout-demo-custom-trigger .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+  color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.3);
+  margin: 16px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.logo{
+      height: 32px;
+      margin: 16px;
+      /* background-color: rgba(255, 255, 255, 0.3); */
+      ;
+}
+
+.logo h5 {
+  height: 32px;
+  margin: 10px;
+  color: antiquewhite
+  ;
+}
+
+.ant-layout{
+min-height: auto;
+}
+
+.site-badge-count-4 .ant-badge-count {
+  background-color: #fff;
+  color: #999;
+  box-shadow: 0 0 0 1px #d9d9d9 inset;
+}
+
+.site-card-wrapper{
+  height: 100vh;
+  /* min-height: auto; */
+}
